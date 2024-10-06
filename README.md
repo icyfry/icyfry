@@ -1,5 +1,5 @@
 <p align="center">
-<b>Freelance Web3 Architect</b> 🐈<br/>
+<b>Freelance Web Architect</b> 🐈<br/>
 <br/>
 Get in touch 👇
 </p>
